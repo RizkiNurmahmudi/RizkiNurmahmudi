@@ -16,16 +16,6 @@
 
 ### 💫 About Me
 
-```kotlin
-val rizki = Developer(
-    name = "Rizki Nurmahmudi",
-    role = "Android & Mobile Developer",
-    focusedOn = listOf("Kotlin", "Jetpack Compose", "Clean Architecture", "Modern UI/UX"),
-    currentProject = "Semesta Apps V1.0 (Interactive Science & Math Learning)",
-    passions = listOf("Android Development", "Autonomous AI Agents", "Clean Code Architecture")
-)
-```
-
 - 📱 Passionate about crafting **fluid, responsive, and intuitive Android applications**.
 - 🎨 Focused on **Jetpack Compose**, **Material Design 3**, and modern reactive state management.
 - 🚀 Currently architecting **[Semesta Apps V1.0](https://github.com/RizkiNurmahmudi/Semesta-Apps-V1.0)** — an interactive STEM educational app.
